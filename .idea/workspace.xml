@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c972392f-5891-4933-922d-15589aa3658d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/scripts/install_python_dependencies.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/install_python_dependencies.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/migrate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/migrate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_application.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/start_application.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="migrate.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="migrate.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/migrate.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -50,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="start_application.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="start_application.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/start_application.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -81,10 +80,10 @@
         <option value="$PROJECT_DIR$/scripts/clean_instance.sh" />
         <option value="$PROJECT_DIR$/appspec.yml" />
         <option value="$PROJECT_DIR$/scripts/stop_application.sh" />
-        <option value="$PROJECT_DIR$/scripts/start_application.sh" />
         <option value="$PROJECT_DIR$/scripts/install_os_dependencies.sh" />
         <option value="$PROJECT_DIR$/scripts/install_python_dependencies.sh" />
         <option value="$PROJECT_DIR$/scripts/migrate.sh" />
+        <option value="$PROJECT_DIR$/scripts/start_application.sh" />
       </list>
     </option>
   </component>
@@ -228,13 +227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/start_application.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/install_os_dependencies.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -249,6 +241,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/migrate.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/appspec.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -256,10 +255,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/migrate.sh">
+    <entry file="file://$PROJECT_DIR$/scripts/start_application.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
